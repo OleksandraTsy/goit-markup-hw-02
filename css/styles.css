@@ -95,6 +95,14 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
+.block-title {
+color: #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
 .text {
 color: #434455;
 font-size: 16px;
@@ -107,17 +115,18 @@ letter-spacing: 0.02em;
 background: #F4F4FD;
 }
 
-.style-list {
-background-color: #FFFFFF;
-}
-
 .section-three-title {
+color: #2E2F42;
 font-size: 36px;
 text-align: center;
 font-weight: 700;
-line-height: 1.1;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+}
+
+.style-list {
+background-color: #FFFFFF;
 }
 
 .team-title {
