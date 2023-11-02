@@ -1,0 +1,139 @@
+body {
+font-family: "Roboto", sans-serif;
+color: #2E2F42;
+background-color: #FFF;
+}
+
+a {
+text-decoration: none;
+}
+
+ul {
+list-style-type: none;
+}
+
+.accent-web {
+color: #4D5AE5;
+font-family: Raleway;
+font-size: 18px;
+line-height: 1.166;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+
+.accent-studio-header {
+color: #2E2F42;
+font-family: Raleway;
+font-size: 18px;
+line-height: 1.166;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+
+.nav-list .nav-link {
+display: inline-flex;
+align-items: flex-start;
+gap: 40px;
+color: #2E2F42;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
+
+.nav-list .nav-link:hover,  .nav-list .nav-link:focus {
+color: #404BBF;
+}
+
+.nav-link:active {
+color: #404BBF;
+}
+.info {
+font-style: normal;
+}
+
+.info-link {
+font-size: 16px;
+line-height: 1.5;
+color: #434455;
+}
+
+.info-list .info-link:hover, .info-list .info-link:focus {
+color: #404BBF;
+}
+
+.section-one {
+background-color: #2E2F42;
+color: #FFF;
+text-align: center;
+}
+
+.title {
+color: #FFF;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.0714;
+letter-spacing: 1.12px;
+}
+
+.btn {
+color: #FFF;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.64px;
+border-radius: 4px;
+background: #4D5AE5;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+display: inline-flex;
+padding: 16px 32px;
+align-items: flex-start;
+gap: 10px;
+}
+
+button:hover, button:focus {
+color: #FFF;
+background: #404BBF;
+}
+
+.section-title {
+color: #2E2F42;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.111;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+}
+
+.text {
+color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
+
+.section-three {
+background: #F4F4FD;
+}
+
+.footer {
+background: #2E2F42;
+}
+
+.accent-studio-footer {
+color: #F4F4FD;
+font-family: Raleway;
+font-size: 18px;
+line-height: 1.166;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+
+.text-footer {
+color: #F4F4FD;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
