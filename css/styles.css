@@ -31,7 +31,7 @@ color: #2E2F42;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 }
 
 .nav-list .nav-link:hover,  .nav-list .nav-link:focus {
@@ -67,7 +67,7 @@ color: #FFF;
 font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
-letter-spacing: 1.12px;
+letter-spacing: 0.02em;
 }
 
 .btn {
@@ -75,7 +75,7 @@ color: #FFF;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
-letter-spacing: 0.64px;
+letter-spacing: 0.04em;
 background: #4D5AE5;
 cursor: pointer;
 }
@@ -180,12 +180,12 @@ background: #2E2F42;
 color: #F4F4FD;
 font-size: 18px;
 line-height: 1.166;
-letter-spacing: 0.54px;
+letter-spacing: 0.03em;
 }
 
 .text-footer {
 color: #F4F4FD;
 font-size: 16px;
 line-height: 1.5;
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 }
